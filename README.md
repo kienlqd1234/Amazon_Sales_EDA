@@ -10,3 +10,5 @@ This is my self-learning project about Data Analyzing. This project analyzes the
 - 🐍 **Python (Pandas, Matplotlib, Seaborn)** – Data Cleaning & Analysis  
 - 📊 **Power BI** – Data Visualization  
 - 📝 **Jupyter Notebook** – Code Execution ****
+
+**📩 Have questions or feedback?** Feel free to reach out me at: kienlqd1234@gmail.com! 🚀
