@@ -5,6 +5,7 @@ This is my self-learning project about Data Analyzing. his project analyzes the 
 
 # 🛠 Data Sources & Tools  
 📌 **Dataset:** [link](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset) 
+
 📌 **Tools Used**:  
 - 🐍 **Python (Pandas, Matplotlib, Seaborn)** – Data Cleaning & Analysis  
 - 📊 **Power BI** – Data Visualization  
